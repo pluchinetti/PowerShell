@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path "C:\Users\pluch\Desktop\Scorm_Ceibal\Matemática\*.zip" -Recurse | Move-Item -Destination "C:\Users\pluch\Desktop\Scorm_Ceibal\Agrupados\Matemática"
